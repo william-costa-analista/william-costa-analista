@@ -6,7 +6,7 @@ Sou estudante de Ciência de Dados na Estácio e atuo como Analista de Dados e B
 - 🔭 Construindo meu portfólio com projetos práticos de análise de crédito, tratamento de dados de remuneração global e criação de painéis interativos.
 - 🌱 Cursando **Ciência de Dados** na Estácio e formado no curso de Analista de Dados pela **EBAC**.
 - 💼 Buscando oportunidades para ajudar empresas na melhoria de processos e na tomada de decisões estratégicas baseadas em dados.
-- ⚡ **Curiosidades:** Fora das planilhas e do código, mantenho o foco correndo de 15 a 20 km por semana, estudo estratégias de Poker, leio clássicos da literatura (Tolstói, Dostoiévski, Jane Austen) e acompanho os jogos do Flamengo.
+- ⚡ **Curiosidades:** Fora das planilhas e do código, mantenho o foco correndo de 15 a 20 km por semana, estudo estratégias de Poker, leio clássicos da literatura (Tolstói e Dostoiévski) e acompanho os jogos do Flamengo.
 
 ---
 
