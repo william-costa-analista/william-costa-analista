@@ -1,16 +1,52 @@
-## Hi there 👋
+# Olá! Eu sou o William 👋
 
-<!--
-**willcosta29/willcosta29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Data Science e atuo com análise de dados, focado em extrair *insights* valiosos e solucionar problemas de negócio. Trago para a área de tecnologia a resiliência, a disciplina e a atenção aos detalhes desenvolvidas ao longo de quase uma década trabalhando como artesão autônomo, além da minha primeira vivência no mundo corporativo como Jovem Aprendiz na Nestlé. 
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+- 🔭 Construindo meu portfólio com projetos práticos de análise e modelagem de dados.
+- 🌱 Estudando **Data Science** e formado no curso de Analista de Dados pela **EBAC**.
+- 💼 Buscando oportunidades para ajudar empresas na tomada de decisões estratégicas baseadas em dados.
+- ⚡ **Curiosidades:** Fora das planilhas e do código, mantenho o foco correndo de 15 a 20 km por semana, estudo estratégias de Poker, leio clássicos da literatura (Tolstói, Dostoiévski, Jane Austen) e acompanho os jogos do Flamengo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+No meu dia a dia explorando bases de dados, utilizo:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img align="center" alt="Power BI" height="35" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
+</div>
+
+---
+
+### 📊 Minhas Estatísticas
+
+Acompanhando meu ritmo de estudos e commits diários:
+
+<div align="center">
+  <a href="https://github.com/willcosta29">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willcosta29&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willcosta29&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+---
+
+### 🐍 Histórico de Contribuições
+
+![Snake animation](https://github.com/willcosta29/willcosta29/blob/output/github-contribution-grid-snake.svg)
+
+### 📫 Como me encontrar
+
+<div align="left">
+  <a href="mailto:williamfscosta@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="http://www.linkedin.com/in/william-costa-analista-de-dados" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
