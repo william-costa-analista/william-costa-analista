@@ -1,11 +1,11 @@
 # Olá! Eu sou o William 👋
 
-Sou estudante de Data Science e atuo com análise de dados, focado em extrair *insights* valiosos e solucionar problemas de negócio. Trago para a área de tecnologia a resiliência, a disciplina e a atenção aos detalhes desenvolvidas ao longo de quase uma década trabalhando como artesão autônomo, além da minha primeira vivência no mundo corporativo como Jovem Aprendiz na Nestlé. 
+[cite_start]Sou estudante de Ciência de Dados na Estácio [cite: 28] [cite_start]e atuo como Analista de Dados e BI [cite: 4][cite_start], com um viés prático em Python, SQL e Engenharia de Dados[cite: 6]. [cite_start]Trago para a área de tecnologia a resiliência e a disciplina desenvolvidas ao longo de quase uma década como profissional autônomo [cite: 38][cite_start], onde já organizava e geria bases de dados operacionais com Excel avançado[cite: 39], além da minha primeira vivência no mundo corporativo como Jovem Aprendiz na Nestlé. [cite_start]Atualmente, tenho foco na redução de custos [cite: 8] [cite_start]e possuo experiência com implementação de pipelines serverless (AWS, Lambda, Athena, S3) e processos de ETL[cite: 7].
 
 ### 🚀 Sobre mim
-- 🔭 Construindo meu portfólio com projetos práticos de análise e modelagem de dados.
-- 🌱 Estudando **Data Science** e formado no curso de Analista de Dados pela **EBAC**.
-- 💼 Buscando oportunidades para ajudar empresas na tomada de decisões estratégicas baseadas em dados.
+- [cite_start]🔭 Construindo meu portfólio com projetos práticos de análise de crédito, tratamento de dados de remuneração global e criação de painéis interativos[cite: 35, 46, 65].
+- [cite_start]🌱 Cursando **Ciência de Dados** na Estácio [cite: 28] [cite_start]e formado no curso de Analista de Dados pela **EBAC**[cite: 29].
+- [cite_start]💼 Buscando oportunidades para ajudar empresas na melhoria de processos e na tomada de decisões estratégicas baseadas em dados[cite: 40].
 - ⚡ **Curiosidades:** Fora das planilhas e do código, mantenho o foco correndo de 15 a 20 km por semana, estudo estratégias de Poker, leio clássicos da literatura (Tolstói, Dostoiévski, Jane Austen) e acompanho os jogos do Flamengo.
 
 ---
